@@ -1,0 +1,13 @@
+<초음파 센서>
+Vcc(+)    ====    5V (or 3.3V)
+GND(-)    ====    GND
+trig    ====    D6
+echo    ====    D7
+
+<MLX90614>
+VIN    ====    5V
+GND    ====    GND
+SDA    ====    A4 (SDA)
+SCL    ====    A5 (SCL)
+
+1.0.10
